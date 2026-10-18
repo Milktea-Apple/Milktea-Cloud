@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-打开 <http://localhost:3210>，创建第一个账号即可开始使用。**第一个注册的账号自动成为站长。**
+打开 <http://localhost:3210>，创建一个账号即可开始使用。
 
 <p align="center">
   <img src="screenshots/drive.png" width="49%" alt="我的网盘">
