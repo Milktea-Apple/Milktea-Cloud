@@ -1,5 +1,5 @@
 # Milktea Cloud ☁️🧋
-# 临时网址：https://vegetable-eds-journalist-simple.trycloudflare.com
+# 临时网址：https://constitutes-divine-voters-autos.trycloudflare.com
 
 **一杯温热的、自托管网盘。**
 
