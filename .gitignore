@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+data/
+storage/
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
+Thumbs.db
+tsconfig.tsbuildinfo
+
+.demo-data/
+.demo-storage/
+.demo-assets/

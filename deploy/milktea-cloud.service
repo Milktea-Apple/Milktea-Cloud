@@ -1,0 +1,28 @@
+[Unit]
+Description=Milktea Cloud
+Documentation=https://github.com/
+After=network.target
+
+[Service]
+Type=simple
+User=milktea
+Group=milktea
+WorkingDirectory=/opt/milktea-cloud
+Environment=NODE_ENV=production
+EnvironmentFile=-/opt/milktea-cloud/.env.local
+ExecStart=/usr/bin/npm run start
+Restart=always
+RestartSec=3
+KillSignal=SIGINT
+TimeoutStopSec=30
+
+# 数据默认在项目目录下；如果使用 DATA_DIR / STORAGE_DIR 指到别处，
+# 请确保 milktea 用户对它们有读写权限。
+
+NoNewPrivileges=true
+PrivateTmp=true
+UMask=0077
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target
