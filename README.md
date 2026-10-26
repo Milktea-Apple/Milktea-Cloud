@@ -1,5 +1,5 @@
 # Milktea Cloud ☁️🧋
-# 临时网址：[https://constitutes-divine-voters-autos.trycloudflare.com](https://typing-doubt-conducting-warner.trycloudflare.com)
+# 临时网址： https://uncertainty-decorating-modeling-laser.trycloudflare.com 
 
 **一杯温热的、自托管网盘。**
 
